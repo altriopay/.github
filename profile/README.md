@@ -1,3 +1,5 @@
+![AltrioPay](./altrio.png)
+
 # AltrioPay
 
 A payment gateway built on Solana that settles in USDC. No SOL needed for gas. No bank account required.
